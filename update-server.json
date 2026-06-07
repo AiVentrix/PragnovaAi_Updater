@@ -1,6 +1,6 @@
 {
     "latest_version": "1.0.5",
     "download_url": "https://raw.githubusercontent.com/AiVentrix/PragnovaAi_Updater/main/update.zip",
-    "sha256": "9b3b1afdf203884bee72071a2db3829c2157411a50bebd3e0469868cd4a6c8",
+    "sha256": "9b3b1afdff203884bee72071a2db3829c62157411a50bebd3e0469868cd4a6c8",
     "changelog": "Added Chrome Automation support and performance fixes!"
 }
